@@ -14,6 +14,7 @@ local ensure_installed = {
   "sqlls",
   "terraformls",
   "jsonls",
+  "basedpyright",
 }
 
 return {
